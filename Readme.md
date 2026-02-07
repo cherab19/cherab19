@@ -20,6 +20,9 @@ My focus: blending simplicity, performance, and creativity in every solution.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-Competitor-blue?logo=kaggle)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
+
 
 
 ## 📊 GitHub Stats 
