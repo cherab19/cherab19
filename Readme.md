@@ -26,8 +26,8 @@ My focus: blending simplicity, performance, and creativity in every solution.
 
 
 ## 📊 GitHub Stats 
-![Top Languages](https://github-readme-stats-six-pi-90.vercel.app/api/top-langs/?username=cherab19&layout=compact&theme=radical)
-
+![cherab19's GitHub stats](https://github-readme-stats-six-pi-90.vercel.app/api?username=cherab19&show_icons=true&count_private=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cherab19&theme=radical)](https://git.io/streak-stats)
 ---
 
 ## 📫 Connect With Me
