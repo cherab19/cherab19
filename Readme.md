@@ -7,7 +7,7 @@
 <p>
 <a href="https://cherab.me"><img src="https://img.shields.io/badge/Portfolio-cherab.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="mailto:chernetdegefe6@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-Chat%20Now-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/axb_5"><img src="https://img.shields.io/badge/Telegram-Chat%20Now-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=cherab19&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
 </p>
 
