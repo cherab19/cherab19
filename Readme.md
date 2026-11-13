@@ -143,10 +143,10 @@ Immersive digital sanctuary blending forests, rivers and mindful retreats into a
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nextjs" />
 
 **Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres" />
 
 **Tools & Deployment**<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
 
 </div>
 
