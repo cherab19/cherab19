@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=200&section=header&text=Chernet%20Degefe&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20I%20build%20SaaS%2C%20marketplaces%20%26%20business%20websites%20that%20ship%20fast&descSize=16&descAlignY=72&animation=fadeIn" />
 
-<a href="https://cherab.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+live%2C+revenue-ready+web+apps.;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+Tailwind;6%2B+production+apps+live+for+real+users.;Available+for+freelance+%26+remote+work+%E2%9C%85" alt="Typing SVG" /></a>
+<a href="https://cherab.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+live%2C+revenue-ready+web+apps.;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+Tailwind;5%2B+live+apps.;Available+for+freelance+%26+remote+work+%E2%9C%85" alt="Typing SVG" /></a>
 
 <p>
 <a href="https://cherab.me"><img src="https://img.shields.io/badge/Portfolio-cherab.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
