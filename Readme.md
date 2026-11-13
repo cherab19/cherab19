@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34801629/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=200&section=header&text=Chernet%20Degefe&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20I%20build%20SaaS%2C%20marketplaces%20%26%20business%20websites%20that%20ship%20fast&descSize=16&descAlignY=72&animation=fadeIn" />
