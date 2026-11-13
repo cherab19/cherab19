@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0ea5e9,100:22d3ee&height=200&section=header&text=Chernet%20Degefe&fontSize=52&fontColor=ffffff&desc=Full-Stack%20Developer%20%E2%80%A2%20I%20build%20SaaS%2C%20marketplaces%20%26%20business%20websites%20that%20ship%20fast&descSize=16&descAlignY=72&animation=fadeIn" />
-
-<a href="https://cherab.me"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=I+turn+ideas+into+live%2C+revenue-ready+web+apps.;React+%E2%80%A2+TypeScript+%E2%80%A2+Supabase+%E2%80%A2+Tailwind;6%2B+production+apps+live+for+real+users.;Available+for+freelance+%26+remote+work+%E2%9C%85" alt="Typing SVG" /></a>
 
 <p>
 <a href="https://cherab.me"><img src="https://img.shields.io/badge/Portfolio-cherab.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -15,32 +12,6 @@
 <img src="https://img.shields.io/badge/Based%20in-Dire%20Dawa%2C%20Ethiopia%20(UTC%2B3)-f59e0b?style=flat-square"/>
 
 </div>
-
----
-
-## 👋 Why clients work with me
-
-> **I don't just write code — I ship products.** From idea to deployed, production-ready app, I build fast, clean and scalable web solutions that your users love.
-
-- ⚡ **Fast delivery** — MVPs launched in days/weeks, not months
-- 🧩 **End-to-end** — UI/UX, frontend, backend, database, auth, deployment
-- 📱 **Pixel-perfect & responsive** — looks great on every device
-- 🔒 **Secure & scalable** — modern stack with auth, roles and real-time data
-- 🤝 **Clear communication** — regular updates, on-time, on-budget
-
----
-
-## 🛠️ What I can build for you
-
-| Service | What you get |
-|---|---|
-| 🚀 **SaaS Platforms** | Dashboards, subscriptions, multi-role systems (e.g. School Management) |
-| 🛒 **E-commerce & Marketplaces** | Multi-vendor stores, product catalogs, carts, vendor dashboards |
-| 🏢 **Business & Agency Websites** | Fast, SEO-friendly, conversion-focused company sites |
-| 🎓 **EdTech & Interactive Apps** | Virtual labs, learning platforms, immersive experiences |
-| 🔌 **Backend & APIs** | Supabase / REST APIs, authentication, databases, storage |
-
----
 
 ## 🌟 Featured Projects — Live & In Production
 
@@ -87,8 +58,6 @@
 </td>
 </tr>
 </table>
-
-👉 **More on my portfolio: [cherab.me](https://cherab.me)**
 </div>
 
 ---
@@ -101,11 +70,7 @@
 <tr>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="44" alt="React"/><br/><sub><b>React</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts" width="44" alt="TypeScript"/><br/><sub><b>TypeScript</b></sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="44" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="44" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="44" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="44" alt="Tailwind"/><br/><sub><b>Tailwind</b></sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vite" width="44" alt="Vite"/><br/><sub><b>Vite</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="44" alt="Next.js"/><br/><sub><b>Next.js</b></sub></td>
 </tr>
 <tr><td align="center" colspan="8"><b>Backend & Database</b></td></tr>
@@ -113,7 +78,6 @@
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="44" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=supabase" width="44" alt="Supabase"/><br/><sub><b>Supabase</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres" width="44" alt="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="44" alt="Firebase"/><br/><sub><b>Firebase</b></sub></td>
 </tr>
 <tr><td align="center" colspan="8"><b>Tools & Deployment</b></td></tr>
 <tr>
@@ -121,8 +85,6 @@
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="44" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="44" alt="Figma"/><br/><sub><b>Figma</b></sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=npm" width="44" alt="npm"/><br/><sub><b>npm</b></sub></td>
 </tr>
 </table>
 </div>
