@@ -2,8 +2,6 @@
 
 
 <p>
-<a href="https://cherab.me"><img src="https://img.shields.io/badge/Portfolio-cherab.me-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:chernetdegefe6@gmail.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://t.me/axb_5"><img src="https://img.shields.io/badge/Telegram-Chat%20Now-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=cherab19&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
 </p>
@@ -120,7 +118,6 @@
 I'm ready to start — let's turn it into a live product.
 
 <a href="mailto:chernetdegefe6@gmail.com"><img src="https://img.shields.io/badge/📩%20Email%20Me-chernetdegefe6%40gmail.com-ea4335?style=for-the-badge"/></a>
-<a href="https://cherab.me"><img src="https://img.shields.io/badge/🌐%20Portfolio-cherab.me-0ea5e9?style=for-the-badge"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0ea5e9,100:0f172a&height=120&section=footer"/>
 
