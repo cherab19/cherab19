@@ -79,7 +79,6 @@
 </tr>
 <tr><td align="center" colspan="8"><b>Tools & Deployment</b></td></tr>
 <tr>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="44" alt="Git"/><br/><sub><b>Git</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="44" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="44" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
 <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="44" alt="VS Code"/><br/><sub><b>VS Code</b></sub></td>
