@@ -1,5 +1,7 @@
 <div align="center">
+👨‍💻 CHERENET DEGEFE
 
+### Next.js Specialist | Full-Stack DEV Software Engineer
 
 <p>
 <a href="https://t.me/axb_5"><img src="https://img.shields.io/badge/Telegram-Chat%20Now-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
